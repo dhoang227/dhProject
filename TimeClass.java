@@ -1,3 +1,4 @@
+//bai 1.8
 public class TimeClass {
     private int hour;   // [0, 23]
     private int minute; // [0, 59]
@@ -77,4 +78,5 @@ public class TimeClass {
         System.out.println("Previous second: " + t1);
         
     }
+
 }
